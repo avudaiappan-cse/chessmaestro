@@ -1,0 +1,5 @@
+.ftr-container { 
+    padding: 10px;
+    text-align: center;
+    color: var(--dark-tile);
+}
